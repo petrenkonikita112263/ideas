@@ -5,3 +5,4 @@
  - [ ] Learn R
  - [ ] Create TikTok account
  - [ ] Mastering MakeUp
+ - [ ] Blockchains with BASIC
